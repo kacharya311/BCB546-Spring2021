@@ -5,8 +5,9 @@
 #### Reproduced by Mudith Ekanayake, Kavi Raj Acharya, Jaspreet Rishi
 
 ## Introduction
-
-
+<p> <div style="text-align: justify"> Exposure to relatively high temperatures including acute thermal stress or heat shock has been studied extensively on cellular and molecular response but not much information is available on how it effects cold-water species.  In the Antarctic, estimates have shown that the temperature of seawater could rise by about 0.6°C to 2.0°C. This, particularly, could have effects on Antarctic-dwelling species as they might be vulnerable to these fluctuating conditions due to their specialization for extremely cold, relatively stable temperature conditions. 
+In this study, a sponge, Isodictya sp, samples were collected from around the Doumer Island, Palmer Archipelago, western Antarctic Peninsula. 6 samples from adult Isodictya were collected from 10m deep to understand whether this organism can adjust to acute short-term heat stress, by exposing this species to 3°C and 5°C for four hours and the control group was maintained at 0.5°C (n=2). The temperatures corresponded to predicted temperatures under high-end 2080 IPCC-SRES (Intergovernmental Panel on Climate Change Special Report on Emissions Scenarios). 
+After 4 hours of exposure, RNA was extracted from each sample and amplified using Illumina sequencing. Adapter sequences were removed, and overall quality of the sequences were tested using Fast QC and one low quality control was removed. Low- quality regions were trimmed using Trimmomatic 0.33. Clustering of isoforms was performed natively by Trinity. DeconSeq was used to remove contamination using pre-prepared bacterial, Archean and viral databases, resulting in the final reference assembly. 
 
 ## Technical Details
 
